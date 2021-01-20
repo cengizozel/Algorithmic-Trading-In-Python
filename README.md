@@ -1,4 +1,4 @@
-# Algorithmic-Trading-In-Python
+# Algorithmic Trading In Python
 
 Collection of 3 quantitative finance projects in Python that uses algorithmic trading.  
 I completed these projects by watching a full course by the software developer Nick McCullum on 

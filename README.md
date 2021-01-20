@@ -20,7 +20,7 @@ The goal of this project is to build an equal-weight version of the S&P 500 inde
 
 ### Result
 
-![121](https://user-images.githubusercontent.com/60388555/105229206-936f4480-5b31-11eb-9ff0-b6f888fa4eaf.PNG)
+![121](https://user-images.githubusercontent.com/60388555/105229513-0e385f80-5b32-11eb-890b-77d11e34c656.PNG)
 
 ## Building A Quantitative Momentum Investing Strategy
 #### [View project](https://github.com/cengizozel/Algorithmic-Trading-In-Python/blob/main/Projects/2%20-%20Building%20A%20Quantitative%20Momentum%20Investing%20Strategy/002_quantitative_momentum_strategy.ipynb)

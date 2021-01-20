@@ -8,7 +8,7 @@ The projects consist of instructions given on a Jupyter notebook from
 and I did the coding part by following the course.
 
 ### Projects
-1. [Building An Equal-Weight SP 500 Index Fund](https://github.com/cengizozel/algorithmic-trading-in-python#building-an-equal-weight-sp-500-index-fund)
+1. [Building An Equal-Weight SP 500 Index Fund](https://github.com/cengizozel/algorithmic-trading-in-python#building-an-equal-weight-s&p-500-index-fund)
 2. [Building A Quantitative Momentum Investing Strategy](https://github.com/cengizozel/algorithmic-trading-in-python#building-a-quantitative-momentum-investing-strategy)
 3. [Building A Quantitative Value Investing Strategy](https://github.com/cengizozel/algorithmic-trading-in-python#building-a-quantitative-value-investing-strategy)
 
@@ -30,6 +30,6 @@ The goal of this project is to build a quantitative momentum strategy that decid
 
 ## Building A Quantitative Value Investing Strategy
 #### [View project](https://github.com/cengizozel/Algorithmic-Trading-In-Python/blob/main/Projects/3%20-%20Building%20A%20Quantitative%20Value%20Investing%20Strategy/003_quantitative_value_strategy.ipynb)
-The goal of this project is to build a quantitative value strategy that selects stocks that are attractive based on a number of value matrix.
+The goal of this project is to build a quantitative value strategy that decides how many of each of the best 50 stocks to buy based on their RV scores (robust value) that indicate how cheap they are relative to common measures of business value.
 
 ![123](https://user-images.githubusercontent.com/60388555/105230806-e77b2880-5b33-11eb-9b37-d1190f8623d5.PNG)

@@ -8,12 +8,18 @@ The projects consist of instructions given on a Jupyter notebook from
 and I did the coding part by following the course.
 
 ### Projects
-1. [Building An Equal-Weight S&P 500 Index Fund](https://github.com/cengizozel/algorithmic-trading-in-python#building-an-equal-weight-sp-500-index-fund)
+1. [Building An Equal-Weight SP 500 Index Fund](https://github.com/cengizozel/algorithmic-trading-in-python#building-an-equal-weight-s&p-500-index-fund)
 2. [Building A Quantitative Momentum Investing Strategy](https://github.com/cengizozel/algorithmic-trading-in-python#building-a-quantitative-momentum-investing-strategy)
 3. [Building A Quantitative Value Investing Strategy](https://github.com/cengizozel/algorithmic-trading-in-python#building-a-quantitative-value-investing-strategy)
 
 ## Building An Equal-Weight S&P 500 Index Fund
+#### [View project](https://github.com/cengizozel/Algorithmic-Trading-In-Python/blob/main/Projects/1%20-%20Building%20An%20Equal-Weight%20S%26P%20500%20Index%20Fund/001_equal_weight_S%26P_500.ipynb)
+The goal of this project is to build an equal-weight version of the S&P 500 index fund.
 
 ## Building A Quantitative Momentum Investing Strategy
+#### [View project](https://github.com/cengizozel/Algorithmic-Trading-In-Python/blob/main/Projects/2%20-%20Building%20A%20Quantitative%20Momentum%20Investing%20Strategy/002_quantitative_momentum_strategy.ipynb)
+The goal of this project is to build a quantitative momentum strategy that selects the best stocks based on a variety of momentum investing matrix.
 
 ## Building A Quantitative Value Investing Strategy
+#### [View project](https://github.com/cengizozel/Algorithmic-Trading-In-Python/blob/main/Projects/3%20-%20Building%20A%20Quantitative%20Value%20Investing%20Strategy/003_quantitative_value_strategy.ipynb)
+The goal of this project is to build a quantitative value strategy that selects stocks that are attractive based on a number of value matrix.

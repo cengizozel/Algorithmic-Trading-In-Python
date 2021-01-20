@@ -13,8 +13,8 @@ and I did the coding part by following the course.
 3. [Building A Quantitative Value Investing Strategy](https://github.com/cengizozel/algorithmic-trading-in-python#building-a-quantitative-value-investing-strategy)
 
 All three projects use the sandbox version of 
-[IEX Cloud API](https://iexcloud.io/docs/api/)
-. The free sandbox version is for testing purposes and gives random values.
+[IEX Cloud API.](https://iexcloud.io/docs/api/)
+The free sandbox version is for testing purposes and gives random values.
 
 ## Building An Equal-Weight S&P 500 Index Fund
 #### [View project](https://github.com/cengizozel/Algorithmic-Trading-In-Python/blob/main/Projects/1%20-%20Building%20An%20Equal-Weight%20S%26P%20500%20Index%20Fund/001_equal_weight_S%26P_500.ipynb)
